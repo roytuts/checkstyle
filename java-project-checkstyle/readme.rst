@@ -1,0 +1,1 @@
+You can read tutorial https://www.roytuts.com/how-to-use-checkstyle-plugin-in-gradle-based-project/
